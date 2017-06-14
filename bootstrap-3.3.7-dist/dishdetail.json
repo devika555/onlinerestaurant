@@ -1,0 +1,21 @@
+[
+	{
+		"name":"Bhel puri",
+		"description":"A dish made of popcorn and sev,tomatoes,onion and etc",
+		"kind":"veg",
+		"price":"240"
+	},
+	{
+		"name":"Pani puri",
+		"description":"A dish of puri and pani",
+		"kind":"veg",
+		"price":"280"
+
+	},
+	{
+		"name":"Masala puri",
+		"description":"A dish of puri and pani",
+		"kind":"veg",
+		"price":"380"
+	}
+]

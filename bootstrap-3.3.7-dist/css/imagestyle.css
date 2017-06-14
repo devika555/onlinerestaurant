@@ -1,0 +1,60 @@
+.login{
+
+	padding-right: 200px;
+	padding-left: 40px;
+	margin-right: auto;
+	float: right;
+	background-color: 	#F5FFFA;
+	background-size: 40px 80px;
+	
+}
+
+#slideshow {
+	padding-top: 0px;
+	 float: left;
+	position: relative;
+	background-position: 50% 50%; 
+	 -moz-background-size: cover;
+	  min-height:100%;
+	  background-size: cover;
+	   width: 800px;
+	   height: 400px;
+ 
+  overflow: hidden;
+}
+.watering{
+	position: center;
+	float: left;
+	width: 40%;
+	height: 65%;
+	overflow: hidden;
+	margin:1%;
+	text-align: center;
+
+}
+
+.watercontent{
+	padding-top: 10%; 
+}
+
+.price{
+	float: right;
+	width: 30%;
+}
+.menu-list{
+	background-color: magenta;
+}
+.listofdish{
+	background-color:lavender;
+	
+}
+.cart{
+	background-color:yellow;
+}
+.findbreak{
+	background-color: magenta;
+}
+
+.priceadd{
+	float: right;
+}

@@ -1,0 +1,46 @@
+
+.menu-list{
+	border:2px solid pink;
+}
+
+.listofdish{
+	border:2px solid pink;
+	
+}
+.cart{
+	border:2px solid pink;
+}
+
+.menu-list h1{
+	background-color: magenta;
+}
+.listofdish h1{
+	background-color:lavender;
+	
+}
+.cart h1{
+	background-color:yellow;
+}
+.single{
+	clear: both;
+}
+.namedesc{
+	
+	float: left;
+	width: auto;
+}
+	
+.priceadd{
+	float: right;
+	width: auto;
+	
+
+}
+.price{
+	float: right;
+	width: 30%;
+}
+.findbreak{
+	background-color: magenta;
+}
+
